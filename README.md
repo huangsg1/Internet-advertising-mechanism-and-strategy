@@ -4,3 +4,7 @@ This is a collection of research and application papers of mechanism and strateg
 ## Clients Strategy
 
 ## Ads Serving Strategy
+
+
+## Links
+- Researcher [Pingzhong Tang](http://people.iiis.tsinghua.edu.cn/~kenshin/)
