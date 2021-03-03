@@ -11,13 +11,13 @@ This is a collection of research and application papers of mechanism and strateg
 
 ### Ads Serving Strategy
 
+## Match and Targeting
+
 ## Creatives
 - [A Hybrid Bandit Model with Visual Priors for Creative Ranking in Display Advertising.](https://arxiv.org/abs/2102.04033?spm=ata.13261165.0.0.20a15452AbEw3D&file=2102.04033) by Shiyao Wang et al. WWW 2021. (Alibaba Group)
 - [Automated Creative Optimization for E-Commerce Advertising](https://zheng-kai.com/paper/aaai_2021_chen.pdf?spm=ata.13261165.0.0.20a15452AbEw3D&file=aaai_2021_chen.pdf) by Jin Chen et al. WWW 2021. (Alibaba Group)
 - [Efficient Optimal Selection for Composited Advertising Creatives
 with Tree Structure](https://zheng-kai.com/paper/aaai_2021_chen.pdf) by Jin Chen et al. AAAI 2021. (Alibaba Group)
-
-## Match and Targeting
 
 ## Links
 - Researcher [Pingzhong Tang](http://people.iiis.tsinghua.edu.cn/~kenshin/)
