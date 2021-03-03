@@ -1,5 +1,5 @@
 # Internet Advertising Strategy & Match & Targeting & Creatives
-This is a collection of research and application papers of Strategy, Match, Targeting and Creatives in Advertising. These works are summarized from the public website. If any authors do not want their paper to be listed here, please feel free to contact me（siguang.hsg@alibaba-inc.com）.
+This is a collection of research and application papers about Strategy, Match, Targeting and Creatives in Advertising. These works are summarized from the public website. If any authors do not want their paper to be listed here, please feel free to contact me（siguang.hsg@alibaba-inc.com）.
 
 
 ## Mechanism and Strategy
