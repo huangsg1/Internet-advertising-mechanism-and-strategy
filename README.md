@@ -25,3 +25,5 @@ with Tree Structure](https://zheng-kai.com/paper/aaai_2021_chen.pdf) by Jin Chen
 
 ## Links
 - Researcher [Pingzhong Tang](http://people.iiis.tsinghua.edu.cn/~kenshin/)
+- Researcher [Weinan Zhang](https://github.com/wnzhang/rtb-papers)
+- Researcher [Zhe Wang](https://github.com/wzhe06/Ad-papers)
