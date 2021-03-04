@@ -14,6 +14,10 @@ This is a collection of research and application papers about Strategy, Match, T
 ### Ads Serving Strategy
 
 ## Match and Targeting
+### Auto Bidding (自动出价)
+- [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising.](https://arxiv.org/abs/1802.08365) by DiWu et al. CIKM 2018.
+- [Bid Optimization by Multivariable Control in Display Advertising.](https://arxiv.org/abs/1905.10928) by XunYang et al. KDD 2019.
+
 
 ## Creatives
 - [A Hybrid Bandit Model with Visual Priors for Creative Ranking in Display Advertising.](https://arxiv.org/abs/2102.04033?spm=ata.13261165.0.0.20a15452AbEw3D&file=2102.04033) by Shiyao Wang et al. WWW 2021. (Alibaba Group)
