@@ -3,23 +3,21 @@ This is a collection of research and application papers about Strategy, Match, T
 
 - Contributors: [Siguang Huang](https://github.com/huangsg1), [Yunli Wang](https://github.com/jimth001) 
 
-## Mechanism and Strategy
+## Mechanism and Strategy (机制策略)
 
-### Coupon Design
-- [Learning to Design Coupons in Online Advertising Markets](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1242.pdf). 
-- [Coupon Design in Advertising Systems](). 
+### Clients Strategy（客户策略）
+#### Coupon Design
+- [Learning to Design Coupons in Online Advertising Markets](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1242.pdf). by Weiran Shen et al. AAMAS 2020.
+- [Coupon Design in Advertising Systems](https://www.weiran-shen.info/swr_page_files/coupon_design_in_advertising_systems.pdf). by Weiran Shen et al. AAAI 2021.
 
-### Clients Strategy
-
-### Ads Serving Strategy
-
-## Match and Targeting
-### Auto Bidding (自动出价)
+### Ads Serving Strategy（竞价策略）
+#### Auto Bidding (自动出价)
 - [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising.](https://arxiv.org/abs/1802.08365) by DiWu et al. CIKM 2018.
 - [Bid Optimization by Multivariable Control in Display Advertising.](https://arxiv.org/abs/1905.10928) by XunYang et al. KDD 2019.
 
+## Match and Targeting (召回与定向)
 
-## Creatives
+## Creatives （创意）
 - [A Hybrid Bandit Model with Visual Priors for Creative Ranking in Display Advertising.](https://arxiv.org/abs/2102.04033?spm=ata.13261165.0.0.20a15452AbEw3D&file=2102.04033) by Shiyao Wang et al. WWW 2021. (Alibaba Group)
 - [Automated Creative Optimization for E-Commerce Advertising](https://zheng-kai.com/paper/aaai_2021_chen.pdf?spm=ata.13261165.0.0.20a15452AbEw3D&file=aaai_2021_chen.pdf) by Jin Chen et al. WWW 2021. (Alibaba Group)
 - [Efficient Optimal Selection for Composited Advertising Creatives
