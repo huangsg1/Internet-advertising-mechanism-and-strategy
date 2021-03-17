@@ -6,7 +6,7 @@ This is a collection of research and application papers about Strategy, Match, T
 ## Mechanism and Strategy (机制策略)
 
 ### Clients Strategy（客户策略）
-#### Coupon Design
+#### Coupon Design (优惠券设计)
 - [Learning to Design Coupons in Online Advertising Markets](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1242.pdf). by Weiran Shen et al. AAMAS 2020.
 - [Coupon Design in Advertising Systems](https://www.weiran-shen.info/swr_page_files/coupon_design_in_advertising_systems.pdf). by Weiran Shen et al. AAAI 2021.
 
