@@ -1,8 +1,6 @@
 # Internet Advertising Strategy & Match & Targeting & Creatives
 This is a collection of research and application papers about Strategy, Match, Targeting and Creatives in Advertising. These works are summarized from the public website. If any authors do not want their paper to be listed here, please feel free to contact me（siguang.hsg@alibaba-inc.com）.
 
-- Contributors: [Siguang Huang](https://github.com/huangsg1), [Yunli Wang](https://github.com/jimth001) ,[Huayue Zhang](https://github.com/HuayueZhang)
-
 ## Match and Targeting (召回与定向)
 
 ## Mechanism and Strategy (机制策略)
