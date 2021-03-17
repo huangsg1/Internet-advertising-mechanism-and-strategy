@@ -10,10 +10,15 @@ This is a collection of research and application papers about Strategy, Match, T
 - [Learning to Design Coupons in Online Advertising Markets](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1242.pdf). by Weiran Shen et al. AAMAS 2020.
 - [Coupon Design in Advertising Systems](https://www.weiran-shen.info/swr_page_files/coupon_design_in_advertising_systems.pdf). by Weiran Shen et al. AAAI 2021.
 
-### Ads Serving Strategy（竞价策略）
+### Ads Serving Strategy（平台策略）
 #### Auto Bidding (自动出价)
 - [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising.](https://arxiv.org/abs/1802.08365) by DiWu et al. CIKM 2018. (Alibaba Group)
 - [Bid Optimization by Multivariable Control in Display Advertising.](https://arxiv.org/abs/1905.10928) by XunYang et al. KDD 2019. (Alibaba Group)
+
+#### Sequential Advertising (序列化投放)
+- [Dynamic Knapsack Optimization Towards Efficient Multi-Channel Sequential Advertising](https://arxiv.org/abs/2006.16312) by Xiaotian Hao et al. ICML 2020. (Alibaba Group)
+- [Learning to Infer User Hidden States for Online Sequential Advertising](https://arxiv.org/abs/2009.01453) by Zhaoqing Peng et al. CIKM 2020. (Alibaba Group)
+
 
 ## Creatives （创意）
 - [A Hybrid Bandit Model with Visual Priors for Creative Ranking in Display Advertising.](https://arxiv.org/abs/2102.04033?spm=ata.13261165.0.0.20a15452AbEw3D&file=2102.04033) by Shiyao Wang et al. WWW 2021. (Alibaba Group)
