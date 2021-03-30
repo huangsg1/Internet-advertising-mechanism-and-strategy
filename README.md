@@ -5,13 +5,16 @@ This is a collection of research and application papers about Strategy, Match, T
 
 - [Learning Tree-based Deep Model for Recommender Systems.](http://arxiv.org/abs/1801.02294v1) by Han Zhu et al. KDD 2018. [Code](https://github.com/alibaba/x-deeplearning/wiki/%E6%B7%B1%E5%BA%A6%E6%A0%91%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9E%8B(TDM)).
 
-- [Joint Optimization of Tree-based Index and Deep Model for Recommender Systems.](http://arxiv.org/pdf/1902.07565.pdf) by Han Zhu et al. NeurIPS.
+- [Joint Optimization of Tree-based Index and Deep Model for Recommender Systems.](http://arxiv.org/pdf/1902.07565.pdf) by Han Zhu et al. NeurIPS 2019.
 
 - [Learning Optimal Tree Models under Beam Search.](http://arxiv.org/abs/2006.15408) by Jingwei Zhuo et al. ICML 2020. 
+
+- [Sample Optimization For Display Advertising](https://dl.acm.org/doi/abs/10.1145/3340531.3412162) by Hongliang Fei et al. CIKM 2020.
 
 - [Deep Retrieval: An End-to-End Learnable Structure Model for Large-Scale Recommendations](https://arxiv.org/abs/2007.07203) by Weihao Gao et al. Arxiv, 2020.
 
 - [Truncation-Free Matching System for Display Advertising at Alibaba.](https://arxiv.org/pdf/2102.09283) by Jin Li et al. Arxiv, 2021.
+
 
 ## Mechanism and Strategy (机制策略)
 
