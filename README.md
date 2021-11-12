@@ -17,7 +17,7 @@ This is a collection of research and application papers about Strategy, Match, T
 - [Learning to Design Coupons in Online Advertising Markets](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1242.pdf). by Weiran Shen et al. AAMAS 2020.
 
 #### Advertiser Modeling (广告主建模)
-- [Leaving No One Behind: A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling.](https://arxiv.org/abs/2109.03540) by Xiaocong Chen et al. WSDM 2022.  (Alibaba Group) 
+- [Leaving No One Behind: A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling.]() by Xiaocong Chen et al. WSDM 2022.  (Alibaba Group) 
 
 ### Ads Serving Strategy（平台策略）
 #### Auto Bidding (自动出价)
