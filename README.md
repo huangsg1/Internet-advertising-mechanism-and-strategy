@@ -31,7 +31,11 @@ This is a collection of research and application papers about Strategy, Match, T
 
 ### 3.2 Ads Serving Strategy（平台策略）
 #### 竞价机制
-
+- DeepGSP:[Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising](https://arxiv.org/abs/2012.02930).
+  - [中文版链接](https://zhuanlan.zhihu.com/p/483201989). by Zhilin Zhang et al. (Alibaba Group) 
+- Neural Auction: [End-to-End Learning of Auction Mechanisms for E-Commerce Advertising](https://arxiv.org/abs/2106.03593?spm=ata.21736010.0.0.4e9c7536qSQxJQ&file=2106.03593). by Xiangyu Liu et al. KDD 2021. (Alibaba Group) 
+- Two-stage Auction: [On Designing a Two-stage Auction for Online Advertising](https://arxiv.org/abs/2111.05555). by Yiqing Wang et al. WWW 2022. (Alibaba Group) 
+  - [中文版链接](https://zhuanlan.zhihu.com/p/502537787) 
 
 #### Sequential Advertising (序列化投放)
 - [Dynamic Knapsack Optimization Towards Efficient Multi-Channel Sequential Advertising](https://arxiv.org/abs/2006.16312) by Xiaotian Hao et al. ICML 2020. (Alibaba Group)
