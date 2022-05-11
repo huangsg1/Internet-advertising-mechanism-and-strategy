@@ -12,18 +12,23 @@ This is a collection of research and application papers about Strategy, Match, T
 ## Mechanism and Strategy (机制策略)
 
 ### Clients Strategy（客户策略）
+#### Bidding (出价)
+- [A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising.](https://arxiv.org/abs/2106.06224) by Chao Wen et al. WSDM 2022. (Alibaba Group)
+- [Bid Optimization by Multivariable Control in Display Advertising.](https://arxiv.org/abs/1905.10928) by XunYang et al. KDD 2019. (Alibaba Group)
+- [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising.](https://arxiv.org/abs/1802.08365) by DiWu et al. CIKM 2018. (Alibaba Group)
+
+#### 广告主工具
+
+#### Advertiser Modeling (广告主建模及客户增长方向)
+- [Leaving No One Behind: A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling.]() by Xiaocong Chen et al. WSDM 2022.  (Alibaba Group) 
+
 #### Coupon Design (优惠券设计)
 - [Coupon Design in Advertising Systems](https://www.weiran-shen.info/swr_page_files/coupon_design_in_advertising_systems.pdf). by Weiran Shen et al. AAAI 2021.
 - [Learning to Design Coupons in Online Advertising Markets](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1242.pdf). by Weiran Shen et al. AAMAS 2020.
 
-#### Advertiser Modeling (广告主建模)
-- [Leaving No One Behind: A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling.]() by Xiaocong Chen et al. WSDM 2022.  (Alibaba Group) 
-
 ### Ads Serving Strategy（平台策略）
-#### Auto Bidding (自动出价)
-- [A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising.](https://arxiv.org/abs/2106.06224) by Chao Wen et al. WSDM 2022. (Alibaba Group)
-- [Bid Optimization by Multivariable Control in Display Advertising.](https://arxiv.org/abs/1905.10928) by XunYang et al. KDD 2019. (Alibaba Group)
-- [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising.](https://arxiv.org/abs/1802.08365) by DiWu et al. CIKM 2018. (Alibaba Group)
+#### 竞价机制
+
 
 #### Sequential Advertising (序列化投放)
 - [Dynamic Knapsack Optimization Towards Efficient Multi-Channel Sequential Advertising](https://arxiv.org/abs/2006.16312) by Xiaotian Hao et al. ICML 2020. (Alibaba Group)
