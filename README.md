@@ -8,7 +8,7 @@ This is a collection of research and application papers about Mechanism and Stra
 - [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising.](https://arxiv.org/abs/1802.08365) by DiWu et al. CIKM 2018. (Alibaba Group)
 
 ### B. 广告主工具
-#### （1）成效预估
+####（1）成效预估
 - [A Unified Framework for Campaign Performance Forecasting in
 Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 
@@ -37,11 +37,14 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 ### C. Guaranteed Advertising (合约广告)
 - [An Adaptive Unified Allocation Framework for Guaranteed Display Advertising](). by ** et al. WSDM 2022. (Alibaba Group)
 
-## 3. xx（动态算力/智能算力）
+## 3. 流量策略
+
+
+## 4. xx（动态算力/智能算力）
 - [美团：美团外卖广告智能算力的探索与实践(1~2)](https://tech.meituan.com/2022/04/28/evolutionary-strategies-based-multi-action-computation-allocation.html)
 - [阿里妈妈：展示广告动态算力](https://zhuanlan.zhihu.com/p/573230085)
 
-## Links
+## 其他参考
 - Researcher [Pingzhong Tang](http://people.iiis.tsinghua.edu.cn/~kenshin/)
 - Researcher [Weinan Zhang](https://github.com/wnzhang/rtb-papers)
 - Researcher [Zhe Wang](https://github.com/wzhe06/Ad-papers)
