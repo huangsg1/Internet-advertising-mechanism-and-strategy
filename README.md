@@ -43,6 +43,9 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 - [美团：美团外卖广告智能算力的探索与实践(1~2)](https://tech.meituan.com/2022/04/28/evolutionary-strategies-based-multi-action-computation-allocation.html)
 - [阿里妈妈：展示广告动态算力](https://zhuanlan.zhihu.com/p/573230085)
 
+## 5. 调控算法
+
+
 ## 其他参考
 - Researcher [Pingzhong Tang](http://people.iiis.tsinghua.edu.cn/~kenshin/)
 - Researcher [Weinan Zhang](https://github.com/wnzhang/rtb-papers)
