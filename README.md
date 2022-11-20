@@ -8,7 +8,9 @@ This is a collection of research and application papers about Mechanism and Stra
 - [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising.](https://arxiv.org/abs/1802.08365) by DiWu et al. CIKM 2018. (Alibaba Group)
 
 ### B. 广告主工具
-- 
+#### (1)成效预估
+- [A Unified Framework for Campaign Performance Forecasting in
+Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 
 ### C. Advertiser Modeling (广告主建模及客户增长方向)
 - [Leaving No One Behind: A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling.]() by Xiaocong Chen et al. WSDM 2022.  (Alibaba Group) 
