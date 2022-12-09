@@ -2,7 +2,7 @@
 This is a collection of research and application papers about Mechanism and Strategy in Advertising. These works are summarized from the public website. If any authors do not want their paper to be listed here, please feel free to contact me（hsg01993@gmail.com; wechat: coder_hh）.
 
 ## 1. Clients Strategy（客户策略）
-### A. Bidding (出价策略)
+### A. 出价策略
 #### Target-x系列（即ocpx）
 
 #### Nobid系列（也有叫auto-bidding）
@@ -16,14 +16,14 @@ This is a collection of research and application papers about Mechanism and Stra
 - [A Unified Framework for Campaign Performance Forecasting in
 Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 
-### C. Advertiser Modeling (广告主建模及客户增长方向)
+### C. 广告主建模及客户增长
 - [Leaving No One Behind: A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling.]() by Xiaocong Chen et al. WSDM 2022.  (Alibaba Group) 
 
-### D. Coupon Design (优惠券设计)
+### D. 优惠券设计（Coupon Design）
 - [Coupon Design in Advertising Systems](https://www.weiran-shen.info/swr_page_files/coupon_design_in_advertising_systems.pdf). by Weiran Shen et al. AAAI 2021.
 - [Learning to Design Coupons in Online Advertising Markets](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1242.pdf). by Weiran Shen et al. AAMAS 2020.
 
-### E. Pacing Strategy（预算平滑）
+### E. 预算平滑/控制（Pacing）
 
 
 ## 2. Ads Serving Strategy（平台策略）
