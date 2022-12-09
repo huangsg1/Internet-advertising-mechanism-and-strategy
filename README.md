@@ -46,13 +46,18 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 ## 3. 流量策略
 
 
-## 4. xx（动态算力/智能算力）
+## 4. 动态算力（智能算力）
 - [美团：美团外卖广告智能算力的探索与实践(1~2)](https://tech.meituan.com/2022/04/28/evolutionary-strategies-based-multi-action-computation-allocation.html)
 - [阿里妈妈：展示广告动态算力](https://zhuanlan.zhihu.com/p/573230085)
 
-## 5. 调控算法
+## 5. 调控和优化算法
+### 5.1 PID调控
 
-## 6. Strategy Server(策略引擎，策略服务）
+### 5.2 RL调控
+
+### 5.3 贝叶斯优化
+
+## 6. 策略引擎（Strategy Server）
 - 
 
 ## 7. 移动广告专题
