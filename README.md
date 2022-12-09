@@ -19,6 +19,9 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 - [Coupon Design in Advertising Systems](https://www.weiran-shen.info/swr_page_files/coupon_design_in_advertising_systems.pdf). by Weiran Shen et al. AAAI 2021.
 - [Learning to Design Coupons in Online Advertising Markets](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1242.pdf). by Weiran Shen et al. AAMAS 2020.
 
+### E. Pacing Strategy（预算平滑）
+
+
 ## 2. Ads Serving Strategy（平台策略）
 ### A. 竞价机制
 #### （1）经典竞价机制
