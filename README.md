@@ -2,7 +2,10 @@
 This is a collection of research and application papers about Mechanism and Strategy in Advertising. These works are summarized from the public website. If any authors do not want their paper to be listed here, please feel free to contact me（hsg01993@gmail.com; wechat: coder_hh）.
 
 ## 1. Clients Strategy（客户策略）
-### A. Bidding (出价)
+### A. Bidding (出价策略)
+#### Target-x系列（即ocpx）
+
+#### Nobid系列（也有叫auto-bidding）
 - [A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising.](https://arxiv.org/abs/2106.06224) by Chao Wen et al. WSDM 2022. (Alibaba Group)
 - [Bid Optimization by Multivariable Control in Display Advertising.](https://arxiv.org/abs/1905.10928) by XunYang et al. KDD 2019. (Alibaba Group) [中文参考1](https://wulc.me/2020/07/19/%E3%80%8ABid%20Optimization%20by%20Multivariable%20Control%20in%20Display%20Advertising%E3%80%8B%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/), [中文参考2](https://www.arvinzyy.cn/2022/06/06/Bid-Optimization-by-Multivariable-Control-in-Display-Advertising/)
 - [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising.](https://arxiv.org/abs/1802.08365) by DiWu et al. CIKM 2018. (Alibaba Group)
