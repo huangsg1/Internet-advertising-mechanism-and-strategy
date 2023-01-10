@@ -57,8 +57,8 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 
 ### 5.3 贝叶斯优化
 
-## 6. 策略引擎（Strategy Server）
-- 
+## 6. 策略引擎/架构（Strategy Server）
+- [阿里巴巴展示广告智能拍卖机制的演进之路](https://mp.weixin.qq.com/s/bHiEt1RLUDN9Zt2MSjCxaQ)
 
 ## 7. 移动广告专题
 
