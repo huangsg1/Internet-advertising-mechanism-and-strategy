@@ -1,7 +1,7 @@
 # Internet Advertising Strategy(计算广告机制策略)
 This is a collection of research and application papers about Mechanism and Strategy in Advertising. These works are summarized from the public website. If any authors do not want their paper to be listed here, please feel free to contact me（hsg01993@gmail.com; wechat: coder_hh）.
 
-## 1. Clients Strategy（客户策略）
+## 1. 客户策略
 ### 1.1 出价策略
 #### Target-x系列（即ocpx）
 
@@ -26,7 +26,7 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 ### 1.5 预算平滑/控制（Pacing）
 
 
-## 2. Ads Serving Strategy（平台策略）
+## 2. 平台策略
 ### 2.1 竞价机制
 #### （1）经典竞价机制
 - GFP/GSP/VCG
@@ -46,19 +46,19 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 ## 3. 流量策略
 
 
-## 4. 动态算力（智能算力）
+## 4. 调控和优化算法
+### 4.1 PID调控
+
+### 4.2 RL调控
+
+### 4.3 贝叶斯优化
+
+## 5. 策略引擎/架构（Strategy Server）
+- [阿里巴巴展示广告智能拍卖机制的演进之路](https://mp.weixin.qq.com/s/bHiEt1RLUDN9Zt2MSjCxaQ)
+
+## 6. 动态算力（智能算力）
 - [美团：美团外卖广告智能算力的探索与实践(1~2)](https://tech.meituan.com/2022/04/28/evolutionary-strategies-based-multi-action-computation-allocation.html)
 - [阿里妈妈：展示广告动态算力](https://zhuanlan.zhihu.com/p/573230085)
-
-## 5. 调控和优化算法
-### 5.1 PID调控
-
-### 5.2 RL调控
-
-### 5.3 贝叶斯优化
-
-## 6. 策略引擎/架构（Strategy Server）
-- [阿里巴巴展示广告智能拍卖机制的演进之路](https://mp.weixin.qq.com/s/bHiEt1RLUDN9Zt2MSjCxaQ)
 
 ## 7. 移动广告专题
 
