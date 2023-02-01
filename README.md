@@ -3,9 +3,9 @@ This is a collection of research and application papers about Mechanism and Stra
 
 ## 1. 客户策略
 ### 1.1 出价策略
-#### Target-x系列（即ocpx）
+#### （1）Target-x系列（即ocpx）
 
-#### Nobid系列（也有叫auto-bidding）
+#### （2）Nobid系列（也有叫auto-bidding）
 - [A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising.](https://arxiv.org/abs/2106.06224) by Chao Wen et al. WSDM 2022. (Alibaba Group)
 - [Bid Optimization by Multivariable Control in Display Advertising.](https://arxiv.org/abs/1905.10928) by XunYang et al. KDD 2019. (Alibaba Group) [中文参考1](https://wulc.me/2020/07/19/%E3%80%8ABid%20Optimization%20by%20Multivariable%20Control%20in%20Display%20Advertising%E3%80%8B%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/), [中文参考2](https://www.arvinzyy.cn/2022/06/06/Bid-Optimization-by-Multivariable-Control-in-Display-Advertising/)
 - [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising.](https://arxiv.org/abs/1802.08365) by DiWu et al. CIKM 2018. (Alibaba Group)
@@ -36,11 +36,11 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 - Neural Auction: [End-to-End Learning of Auction Mechanisms for E-Commerce Advertising](https://arxiv.org/abs/2106.03593?spm=ata.21736010.0.0.4e9c7536qSQxJQ&file=2106.03593). by Xiangyu Liu et al. KDD 2021. (Alibaba Group) [中文版链接](https://zhuanlan.zhihu.com/p/412872425)  
 - Two-stage Auction: [On Designing a Two-stage Auction for Online Advertising](https://arxiv.org/abs/2111.05555). by Yiqing Wang et al. WWW 2022. (Alibaba Group) [中文版链接](https://zhuanlan.zhihu.com/p/502537787) 
 
-### 2.2 Sequential Advertising (序列化投放)
+### 2.2 序列化投放（Sequential Advertising）
 - [Dynamic Knapsack Optimization Towards Efficient Multi-Channel Sequential Advertising](https://arxiv.org/abs/2006.16312) by Xiaotian Hao et al. ICML 2020. (Alibaba Group)
 - [Learning to Infer User Hidden States for Online Sequential Advertising](https://arxiv.org/abs/2009.01453) by Zhaoqing Peng et al. CIKM 2020. (Alibaba Group)
 
-### C. Guaranteed Advertising (合约广告)
+### 2.3 合约广告（Guaranteed Advertising ）
 - [An Adaptive Unified Allocation Framework for Guaranteed Display Advertising](). by ** et al. WSDM 2022. (Alibaba Group)
 
 ## 3. 流量策略
@@ -48,10 +48,9 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 
 ## 4. 调控和优化算法
 ### 4.1 PID调控
-
-### 4.2 RL调控
-
-### 4.3 贝叶斯优化
+### 4.2 MPC调控
+### 4.3 CEM/RL调控
+### 4.4 贝叶斯优化
 
 ## 5. 策略引擎/架构（Strategy Server）
 - [阿里巴巴展示广告智能拍卖机制的演进之路](https://mp.weixin.qq.com/s/bHiEt1RLUDN9Zt2MSjCxaQ)
