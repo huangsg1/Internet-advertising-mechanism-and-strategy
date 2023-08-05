@@ -46,20 +46,31 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 ## 3. 流量策略
 
 
+---
+以下汇总衍生技术点：
 ## 4. 调控和优化算法
 ### 4.1 PID调控
 ### 4.2 MPC调控
 ### 4.3 CEM/RL调控
 ### 4.4 贝叶斯优化
+### 4.5 衍生问题
+#### 问题1. 稀疏延迟统计
+#### 问题2. 调控与优化之间的关系
+#### 问题3. 校准策略
+- [link](https://github.com/huangsg1/uncertainty-calibration)
 
-## 5. 策略引擎/架构（Strategy Server）
+## 5. 平台&客户&流量策略策略协同优化
+
+## 6. 策略引擎/架构（Strategy Server）
 - [阿里巴巴展示广告智能拍卖机制的演进之路](https://mp.weixin.qq.com/s/bHiEt1RLUDN9Zt2MSjCxaQ)
+### 6.1 概览
+### 6.2 离线策略服务
+### 6.3 在线策略引擎
+### 6.4 监控&报警&维护
 
-## 6. 动态算力（智能算力）
+## 7. 动态算力（智能算力）
 - [美团：美团外卖广告智能算力的探索与实践(1~2)](https://tech.meituan.com/2022/04/28/evolutionary-strategies-based-multi-action-computation-allocation.html)
 - [阿里妈妈：展示广告动态算力](https://zhuanlan.zhihu.com/p/573230085)
-
-## 7. 移动广告专题
 
 
 ## 其他参考
