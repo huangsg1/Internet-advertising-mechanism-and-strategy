@@ -77,3 +77,4 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 - Researcher [Pingzhong Tang](http://people.iiis.tsinghua.edu.cn/~kenshin/)
 - Researcher [Weinan Zhang](https://github.com/wnzhang/rtb-papers)
 - Researcher [Zhe Wang](https://github.com/wzhe06/Ad-papers)
+- https://github.com/Doragd/Algorithm-Practice-in-Industry
