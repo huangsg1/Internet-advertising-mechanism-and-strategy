@@ -3,13 +3,21 @@ This is a collection of research and application papers about Mechanism and Stra
 
 ## 1. 客户策略
 ### 1.1 出价策略
-#### （1）Target-x系列（即ocpx）
+#### （1）Target-x系列（含ocpx）
 
-#### （2）Nobid系列（也有叫auto-bidding）
+#### （2）Nobid系列（或auto-bidding）
+- [BCB](https://arxiv.org/abs/1802.08365)
+- [USCB](https://zhuanlan.zhihu.com/p/415040447)
 - [A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising.](https://arxiv.org/abs/2106.06224) by Chao Wen et al. WSDM 2022. (Alibaba Group)
 - [Bid Optimization by Multivariable Control in Display Advertising.](https://arxiv.org/abs/1905.10928) by XunYang et al. KDD 2019. (Alibaba Group) [中文参考1](https://wulc.me/2020/07/19/%E3%80%8ABid%20Optimization%20by%20Multivariable%20Control%20in%20Display%20Advertising%E3%80%8B%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/), [中文参考2](https://www.arvinzyy.cn/2022/06/06/Bid-Optimization-by-Multivariable-Control-in-Display-Advertising/)
 - [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising.](https://arxiv.org/abs/1802.08365) by DiWu et al. CIKM 2018. (Alibaba Group)
 - [小红书智能出价](https://mp.weixin.qq.com/s/zRTEQ-1PB2epnZsLE5_qMg)
+
+#### (3) Lift-based Bidding系列
+- [中文：lift-based bidding](https://zhuanlan.zhihu.com/p/24801130)
+- [Unbiased Lift-based Bidding System](https://arxiv.org/pdf/2007.04002.pdf)
+- [A Real-World Implementation of Unbiased Lift-based Bidding System](https://arxiv.org/abs/2202.13868)
+
 
 ### 1.2 广告主工具
 #### （1）成效预估
