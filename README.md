@@ -1,23 +1,26 @@
 # Internet Advertising Strategy(计算广告机制策略)
-This is a collection of research and application papers about Mechanism and Strategy in Advertising. These works are summarized from the public website. If any authors do not want their paper to be listed here, please feel free to contact me（hsg01993@gmail.com; wechat: coder_hh）.
+> This is a collection of research and application papers about Mechanism and Strategy in Advertising. These works are summarized from the public website. If any authors do not want their paper to be listed here, please feel free to contact me（hsg01993@gmail.com; wechat: coder_hh）.
 
 ## 1. 客户策略
 ### 1.1 出价策略
 #### （1）Target-x系列（含ocpx）
-- [中文：公众号文章](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2MDE5MzA2Ng==&action=getalbum&album_id=1362906257140858882&scene=173&from_msgid=2247485036&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+- [中文：公众号文章（含ecpc系列）](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2MDE5MzA2Ng==&action=getalbum&album_id=1362906257140858882&scene=173&from_msgid=2247485036&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
 #### （2）Nobid系列（或auto-bidding）
-- [论文：BCB](https://arxiv.org/abs/1802.08365)
-- [中文：USCB](https://zhuanlan.zhihu.com/p/415040447)
-- [A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising.](https://arxiv.org/abs/2106.06224) by Chao Wen et al. WSDM 2022. (Alibaba Group)
-- [Bid Optimization by Multivariable Control in Display Advertising.](https://arxiv.org/abs/1905.10928) by XunYang et al. KDD 2019. (Alibaba Group) [中文参考1](https://wulc.me/2020/07/19/%E3%80%8ABid%20Optimization%20by%20Multivariable%20Control%20in%20Display%20Advertising%E3%80%8B%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/), [中文参考2](https://www.arvinzyy.cn/2022/06/06/Bid-Optimization-by-Multivariable-Control-in-Display-Advertising/)
-- [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising.](https://arxiv.org/abs/1802.08365) by DiWu et al. CIKM 2018. (Alibaba Group)
-- [小红书智能出价](https://mp.weixin.qq.com/s/zRTEQ-1PB2epnZsLE5_qMg)
+- 论文
+  - [A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising.](https://arxiv.org/abs/2106.06224) by Chao Wen et al. WSDM 2022. (Alibaba Group)
+  - [Bid Optimization by Multivariable Control in Display Advertising.](https://arxiv.org/abs/1905.10928) by XunYang et al. KDD 2019. (Alibaba Group) [中文参考1](https://wulc.me/2020/07/19/%E3%80%8ABid%20Optimization%20by%20Multivariable%20Control%20in%20Display%20Advertising%E3%80%8B%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/), [中文参考2](https://www.arvinzyy.cn/2022/06/06/Bid-Optimization-by-Multivariable-Control-in-Display-Advertising/)
+- 工业实践
+  - [小红书智能出价](https://mp.weixin.qq.com/s/zRTEQ-1PB2epnZsLE5_qMg)
+  - [阿里妈妈：USCB](https://zhuanlan.zhihu.com/p/415040447)
+  - [阿里妈妈：BCB](https://arxiv.org/abs/1802.08365)
 
 #### (3) Lift-based Bidding系列
-- [中文：lift-based bidding](https://zhuanlan.zhihu.com/p/24801130)
-- [Unbiased Lift-based Bidding System](https://arxiv.org/pdf/2007.04002.pdf)
-- [A Real-World Implementation of Unbiased Lift-based Bidding System](https://arxiv.org/abs/2202.13868)
+- 论文
+  - [Unbiased Lift-based Bidding System](https://arxiv.org/pdf/2007.04002.pdf)
+  - [A Real-World Implementation of Unbiased Lift-based Bidding System](https://arxiv.org/abs/2202.13868)
+- 工业实践
+  - [中文：lift-based bidding](https://zhuanlan.zhihu.com/p/24801130)
 
 
 ### 1.2 广告主工具
@@ -56,7 +59,7 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 
 
 ---
-以下汇总衍生技术点：
+> **以下汇总衍生技术点**
 ## 4. 调控和优化算法
 ### 4.1 PID调控
 ### 4.2 MPC调控
@@ -78,6 +81,7 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 ### 6.4 监控&报警&维护
 
 ## 7. 动态算力（智能算力）
+> 机器成本优化相关
 - [美团：美团外卖广告智能算力的探索与实践(1~2)](https://tech.meituan.com/2022/04/28/evolutionary-strategies-based-multi-action-computation-allocation.html)
 - [阿里妈妈：展示广告动态算力](https://zhuanlan.zhihu.com/p/573230085)
 
