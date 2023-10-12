@@ -14,8 +14,8 @@
   - [小红书智能出价](https://mp.weixin.qq.com/s/zRTEQ-1PB2epnZsLE5_qMg)
   - [阿里妈妈：USCB](https://zhuanlan.zhihu.com/p/415040447)
   - [阿里妈妈：BCB](https://arxiv.org/abs/1802.08365)
-
-#### (3) Lift-based Bidding系列
+    
+#### （3）Lift-based Bidding系列
 - 论文
   - [Unbiased Lift-based Bidding System](https://arxiv.org/pdf/2007.04002.pdf)
   - [A Real-World Implementation of Unbiased Lift-based Bidding System](https://arxiv.org/abs/2202.13868)
