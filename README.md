@@ -27,6 +27,7 @@
 #### （1）成效预估
 - [A Unified Framework for Campaign Performance Forecasting in
 Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
+#### （2）冷启动加速
 
 ### 1.3 广告主建模及客户增长
 - [Leaving No One Behind: A Multi-Scenario Multi-Task Meta Learning Approach for Advertiser Modeling.]() by Xiaocong Chen et al. WSDM 2022.  (Alibaba Group) 
@@ -36,12 +37,13 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 - [Learning to Design Coupons in Online Advertising Markets](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1242.pdf). by Weiran Shen et al. AAMAS 2020.
 
 ### 1.5 预算平滑/控制（Pacing）
-
+- [A Unified Framework for Marketing Budget Allocation](https://arxiv.org/pdf/1902.01128.pdf). by Kui Zhao et al. (Alibaba Group)
+  - 预算分配（DBO/CBO思想）  
 
 ## 2. 平台策略
 ### 2.1 竞价机制
 #### （1）经典竞价机制
-- GFP/GSP/VCG
+- GFP/GSP/VCG等：[中文：阿里妈妈公众号总结](https://zhuanlan.zhihu.com/p/618023549)
 - uGSP
 #### （2）多目标优化平台机制
 - DeepGSP:[Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising](https://arxiv.org/abs/2012.02930). by Zhilin Zhang et al. (Alibaba Group) [中文版链接](https://zhuanlan.zhihu.com/p/483201989)
@@ -67,6 +69,7 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 ### 4.4 贝叶斯优化
 ### 4.5 衍生问题
 #### 问题1. 稀疏延迟统计
+
 #### 问题2. 调控与优化之间的关系
 #### 问题3. 校准策略
 - [link](https://github.com/huangsg1/uncertainty-calibration)
