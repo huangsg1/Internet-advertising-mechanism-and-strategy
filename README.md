@@ -3,8 +3,10 @@
 
 ## 1. 客户策略
 ### 1.1 出价策略
-#### （1）Target-x系列（含ocpx）
-- [中文：公众号文章（含ecpc系列）](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2MDE5MzA2Ng==&action=getalbum&album_id=1362906257140858882&scene=173&from_msgid=2247485036&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+#### （1）Target-x系列（ocpx类似）
+-  [中文：公众号文章（含ecpc系列）](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU2MDE5MzA2Ng==&action=getalbum&album_id=1362906257140858882&scene=173&from_msgid=2247485036&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+-  ocpx与Target-x智能出价的区别
+
 
 #### （2）Nobid系列（或auto-bidding）
 - 论文
@@ -58,6 +60,7 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 - [An Adaptive Unified Allocation Framework for Guaranteed Display Advertising](). by ** et al. WSDM 2022. (Alibaba Group)
 
 ## 3. 流量策略
+- 基本概念：
 
 
 ---
