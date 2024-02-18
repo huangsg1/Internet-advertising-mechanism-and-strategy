@@ -24,6 +24,10 @@
 - 工业实践
   - [中文：lift-based bidding](https://zhuanlan.zhihu.com/p/24801130)
 
+#### (4) 不确定性出价
+- 论文
+  - [Managing Risk of Bidding in Display Advertising](https://arxiv.org/abs/1701.02433)  2017
+  - 
 
 ### 1.2 广告主工具
 #### （1）成效预估
