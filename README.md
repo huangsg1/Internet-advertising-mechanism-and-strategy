@@ -59,7 +59,11 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 #### （2）多目标优化平台机制
 - DeepGSP:[Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising](https://arxiv.org/abs/2012.02930). by Zhilin Zhang et al. (Alibaba Group) [中文版链接](https://zhuanlan.zhihu.com/p/483201989)
 - Neural Auction: [End-to-End Learning of Auction Mechanisms for E-Commerce Advertising](https://arxiv.org/abs/2106.03593?spm=ata.21736010.0.0.4e9c7536qSQxJQ&file=2106.03593). by Xiangyu Liu et al. KDD 2021. (Alibaba Group) [中文版链接](https://zhuanlan.zhihu.com/p/412872425)  
-- Two-stage Auction: [On Designing a Two-stage Auction for Online Advertising](https://arxiv.org/abs/2111.05555). by Yiqing Wang et al. WWW 2022. (Alibaba Group) [中文版链接](https://zhuanlan.zhihu.com/p/502537787) 
+- Two-stage Auction: [On Designing a Two-stage Auction for Online Advertising](https://arxiv.org/abs/2111.05555). by Yiqing Wang et al. WWW 2022. (Alibaba Group) [中文版链接](https://zhuanlan.zhihu.com/p/502537787)
+- [NMA: Neural Multi-slot Auctions with Externalities for Online Advertising](https://arxiv.org/abs/2205.10018) （2023，美团）
+
+#### （3）其他
+- [Multi-Channel Auction Design in the Autobidding World] (https://arxiv.org/abs/2301.13410)
 
 ### 2.2 序列化投放（Sequential Advertising）
 - [Dynamic Knapsack Optimization Towards Efficient Multi-Channel Sequential Advertising](https://arxiv.org/abs/2006.16312) by Xiaotian Hao et al. ICML 2020. (Alibaba Group)
