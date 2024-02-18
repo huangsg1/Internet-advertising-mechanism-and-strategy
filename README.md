@@ -50,7 +50,12 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 ### 2.1 竞价机制
 #### （1）经典竞价机制
 - GFP/GSP/VCG等：[中文：阿里妈妈公众号总结](https://zhuanlan.zhihu.com/p/618023549)
-- uGSP
+- 一价扣费
+  - Bid shading
+    - [Bid Shading by Win-Rate Estimation and Surplus Maximization](https://arxiv.org/abs/2009.09259)
+    - [An Efficient Deep Distribution Network for Bid Shading in First-Price Auctions](https://arxiv.org/abs/2107.06650)
+  - [Revenue and Efficiency Effects of Resale in First-Price Auctions](https://kilthub.cmu.edu/articles/journal_contribution/Revenue_and_Efficiency_Effects_of_Resale_in_First-Price_Auctions/6707798)
+  - 
 #### （2）多目标优化平台机制
 - DeepGSP:[Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising](https://arxiv.org/abs/2012.02930). by Zhilin Zhang et al. (Alibaba Group) [中文版链接](https://zhuanlan.zhihu.com/p/483201989)
 - Neural Auction: [End-to-End Learning of Auction Mechanisms for E-Commerce Advertising](https://arxiv.org/abs/2106.03593?spm=ata.21736010.0.0.4e9c7536qSQxJQ&file=2106.03593). by Xiangyu Liu et al. KDD 2021. (Alibaba Group) [中文版链接](https://zhuanlan.zhihu.com/p/412872425)  
@@ -85,10 +90,7 @@ Online Display Advertising](https://arxiv.org/pdf/2202.11877v1.pdf) by 安之
 
 ## 6. 策略引擎/架构（Strategy Server）
 - [阿里巴巴展示广告智能拍卖机制的演进之路](https://mp.weixin.qq.com/s/bHiEt1RLUDN9Zt2MSjCxaQ)
-### 6.1 概览
-### 6.2 离线策略服务
-### 6.3 在线策略引擎
-### 6.4 监控&报警&维护
+- [Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising](https://arxiv.org/abs/1803.02194) 大DSP视角
 
 ## 7. 动态算力（智能算力）
 > 机器成本优化相关
